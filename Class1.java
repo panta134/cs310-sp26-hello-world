@@ -1,6 +1,6 @@
 /**
  *
- * @author Samriddha Pant
+ * @author panta134
  */
 
 public class Class1 {
